@@ -5,3 +5,10 @@ label {
     width: 8em;
     line-height: 150%;
 }
+
+/* 入力チェックのエラーメッセージ用 */
+.error {
+    color: red;
+    font-size: 0.9em;
+    margin-left: 0.5em;
+}
